@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
+import styled from 'styled-components'
 import Header from '../components/Header'
 import Jobs from '../components/Jobs'
-import styled from 'styled-components'
+import styles from '../css/styles.css'
 
 const BGMargin = styled.div`
   
