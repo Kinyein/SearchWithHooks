@@ -11,7 +11,6 @@ const BGMargin = styled.div`
 export default class App extends Component {
   render() {
     return (
-      
       <div>
         <Header/>
         <Jobs/>
